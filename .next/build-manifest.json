@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "/_app": [
+      "static/chunks/0jqg_next_dist_compiled_0lhe41x._.js",
+      "static/chunks/0jqg_next_dist_shared_lib_00q8bjy._.js",
+      "static/chunks/0jqg_next_dist_client_06~vi1m._.js",
+      "static/chunks/0jqg_next_dist_0eiz2ns._.js",
+      "static/chunks/0jqg_next_app_0j92r0l.js",
+      "static/chunks/[next]_entry_page-loader_ts_0s6i.vm._.js",
+      "static/chunks/0jqg_react-dom_0hgx20l._.js",
+      "static/chunks/0jqg_06zj88a._.js",
+      "static/chunks/[root-of-the-server]__13ntqrj._.js",
+      "static/chunks/OneDrive_Desktop_management saas_pages__app_07xvfw~._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_management saas_pages__app_02m0vp4._.js"
+    ],
+    "/_error": [
+      "static/chunks/0jqg_next_dist_compiled_0lhe41x._.js",
+      "static/chunks/0jqg_next_dist_shared_lib_0e03i83._.js",
+      "static/chunks/0jqg_next_dist_client_06~vi1m._.js",
+      "static/chunks/0jqg_next_dist_04wt-56._.js",
+      "static/chunks/[next]_entry_page-loader_ts_0rftd.t._.js",
+      "static/chunks/0jqg_react-dom_0hgx20l._.js",
+      "static/chunks/0jqg_06zj88a._.js",
+      "static/chunks/[root-of-the-server]__0qhmvwk._.js",
+      "static/chunks/OneDrive_Desktop_management saas_pages__error_07xvfw~._.js",
+      "static/chunks/turbopack-OneDrive_Desktop_management saas_pages__error_02fw-uz._.js"
+    ]
+  },
+  "devFiles": [],
+  "polyfillFiles": [
+    "static/chunks/0jqg_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
+  "lowPriorityFiles": [
+    "static/development/_buildManifest.js",
+    "static/development/_ssgManifest.js",
+    "static/development/_clientMiddlewareManifest.js"
+  ],
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_0j460v-._.js",
+    "static/chunks/0jqg_next_dist_compiled_next-devtools_index_11o-8rk.js",
+    "static/chunks/0jqg_next_dist_compiled_react-dom_0p22f-7._.js",
+    "static/chunks/0jqg_next_dist_compiled_react-server-dom-turbopack_089sosc._.js",
+    "static/chunks/0jqg_next_dist_compiled_0z-3.1h._.js",
+    "static/chunks/0jqg_next_dist_client_03y4xru._.js",
+    "static/chunks/0jqg_next_dist_0i7g72~._.js",
+    "static/chunks/0jqg_@swc_helpers_cjs_10ekl.5._.js",
+    "static/chunks/OneDrive_Desktop_management saas_0rqeker._.js",
+    "static/chunks/turbopack-OneDrive_Desktop_management saas_0hv8kzy._.js"
+  ]
+}
